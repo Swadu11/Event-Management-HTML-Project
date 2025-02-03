@@ -9,7 +9,7 @@ Welcome to the **Upcoming Event Page**! This webpage provides information about 
 ```sh
 git clone https://github.com/Swadu11/Event-Management-HTML-Project.git
 
-website link (https://swadu11.github.io/Event-Management-HTML-Project/)
+website link https://swadu11.github.io/Event-Management-HTML-Project/
 
 ## 📌 Overview  
 
