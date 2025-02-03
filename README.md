@@ -1,7 +1,15 @@
 # Event-Management-HTML-Project
 # 🎉 EVENT PAGE  
 
-Welcome to the **Upcoming Event Page**! This webpage provides information about exciting events, ensuring that you never miss out on important occasions.  
+Welcome to the **Upcoming Event Page**! This webpage provides information about exciting events, ensuring that you never miss out on important occasions. 
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repository  
+```sh
+git clone https://github.com/Swadu11/Event-Management-HTML-Project.git
+
+website link (https://swadu11.github.io/Event-Management-HTML-Project/)
 
 ## 📌 Overview  
 
@@ -23,9 +31,3 @@ This project is built using:
 - `img/date.png` – Favicon icon  
 - `img/event1.png` – Image for Photo Gallery Event  
 - `img/event2.png` – Image for Fashion Store Event  
-
-## 🚀 Getting Started  
-
-### 1️⃣ Clone the Repository  
-```sh
-git clone https://github.com/Swadu11/Event-Management-HTML-Project.git
