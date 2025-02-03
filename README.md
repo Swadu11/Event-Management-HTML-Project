@@ -28,4 +28,4 @@ This project is built using:
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clonehttps://github.com/Swadu11/Event-Management-HTML-Project.git
+git clone https://github.com/Swadu11/Event-Management-HTML-Project.git
